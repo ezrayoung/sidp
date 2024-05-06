@@ -1,10 +1,3 @@
----
- layout: /src/layouts/MarkdownLayout.astro
- title: Multimedia Center Concept
- author: Ezra Young
- description: Proposed solution to address environmental impact of EP multimedia center
----
-
 View [Multimedia Centre concept](https://excalidraw.com/#json=4WlobPNG4meVHVc7IDCRH,4v_woZHgknrwTYQW0z3Q_Q)
 
 ## What contributes to digital sustainability?
